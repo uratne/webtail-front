@@ -116,7 +116,7 @@
   
     onMount(() => {
         // Set document title
-        document.title = 'f.efs';
+        document.title = 'webtail';
 
         // Add initial message
         lines = [{
